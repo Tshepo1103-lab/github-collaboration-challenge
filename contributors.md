@@ -9,4 +9,4 @@ Evan - Enjoys playing guitar 🎸 Fiona - Also plays guitar! 🎶
 Motseki - Favorite food is pizza 🍕 Hlompho - Also loves pizza! 🍕  
 Ian - Speaks three languages 🌍 Jane - Loves astronomy 🔭  
 Lihlumise - Enjoys coding challenges 💻 Craig - Loves traveling ✈️
-Rapudi -I playing piano, not playing amapiano!
+Rapudi -I love playing piano, not playing amapiano! version 2
