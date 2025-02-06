@@ -10,3 +10,7 @@ Motseki - Favorite food is pizza 🍕 Hlompho - Also loves pizza! 🍕
 Ian - Speaks three languages 🌍 Jane - Loves astronomy 🔭  
 Lihlumise - Enjoys coding challenges 💻 Craig - Loves traveling ✈️
 Rapudi -I playing piano, not playing amapiano!
+
+## Mpho 
+- I am a Graduate Software Engineer at BoxFusion
+- I enjoy reading thought provoking  Books💻,Listening to music too,Also Gaming
