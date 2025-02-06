@@ -9,8 +9,8 @@ Kabelo - Loves hiking 🏔️ Mpho - Enjoys playing chess ♟️
 Katleho - Big fan of sci-fi movies 🎥 Mishalia - Loves Drawing and Painting 🚀  
 Evan - Enjoys playing guitar 🎸 Fiona - Also plays guitar! 🎶  
 Motseki - Favorite food is pizza 🍕 Hlompho - Also loves pizza! 🍕  
-Ian - Speaks three languages 🌍 Jane - Loves astronomy 🔭  
-Lihlumise - Enjoys coding challenges 💻 Craig - Loves traveling ✈️
+Ian - Speaks three languages 🌍 Jane - Loves astronomy 🔭 
+Lihlumise - Enjoys distance runnig 💻 Craig - Loves traveling ✈️
 Rapudi -I playing piano, not playing amapiano!
 
 ## Mpho
