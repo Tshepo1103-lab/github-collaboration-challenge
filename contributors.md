@@ -12,11 +12,12 @@ Motseki - Favorite food is pizza 🍕 Hlompho - Also loves pizza! 🍕
 Ian - Speaks three languages 🌍 Jane - Loves astronomy 🔭 
 Lihlumise - Enjoys distance runnig 💻 Craig - Loves traveling ✈️
 Rapudi -I playing piano, not playing amapiano!
+Miracle - i love drifting. 
 
 ## Mpho
 
 - I am a Graduate Software Engineer at BoxFusion
-- I enjoy reading thought provoking Books💻,Listening to music too,Also Gaming
+- I enjoy reading thought provoking Books💻,Listenilsng to music too,Also Gaming
 contributors I am Katleho I suck at Github
 I am editting again
 
