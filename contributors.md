@@ -3,7 +3,7 @@
 # Add your name and a fun fact below!
 
 # If your name is here, modify your existing line instead of adding a new one.
-
+kabelo enjoys playing soccer
 Motseki Tshabalala - like hiking
 Kabelo - Loves hiking 🏔️ Mpho - Enjoys playing chess ♟️  
 Katleho - Big fan of sci-fi movies 🎥 Mishalia - Loves Drawing and Painting 🚀  
